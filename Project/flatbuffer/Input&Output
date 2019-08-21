@@ -1,0 +1,51 @@
+Input
+
+weapons:
+1) name: w1, damage:10
+2) name: w2, damage:20
+
+name: monster1
+
+inventory: 10
+
+Pos: 10,20,30
+
+hp: 20
+
+Color:Red
+
+Mana: 10
+
+Equipped: 0
+
+
+Output
+
+Monster Weapon_list
+('Weapon Name: ', 'w2')
+('Weapon Damage: ', 20)
+('Weapon Name: ', 'w1')
+('Weapon Damage: ', 10)
+('Monster Name', 'w2')
+Monster Inventory
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Monster Pos
+('Pos.x: ', 10.0)
+('Pos.y: ', 20.0)
+('Pos.z: ', 30.0)
+('Monster Hp', 20)
+Monter Color: Red
+('Monster Mana', 10)
+Monster Equipped List
+('Weapon name: ', 'w1')
+('Weapon damage: ', 10)
+

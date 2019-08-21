@@ -1,0 +1,100 @@
+Input
+
+Monster1
+mana: 10
+hp: 20
+name: monster1
+friendly: True
+weapons:
+1) name: w1, damage:10
+2) name: w2, damage:20
+inventory:
+1) 1
+2) 2
+3) 3
+Color:Red
+Pos: 10,20,30
+path:
+1) 1,2,3
+2) 3,2,1
+
+Monster2
+mana: 100
+hp: 200
+name: monster2
+friendly: False
+weapons:
+1) name: w3, damage:10
+2) name: w4, damage:20
+inventory:
+1) 3
+2) 2
+3) 1
+Color:Green
+Pos: 100,200,300
+path:
+1) 10,20,30
+2) 30,20,10
+
+Output
+('Monster pos: ', 10.0, 20.0, 30.0)
+('Monster mana:', 10)
+('Monster hp:', 20)
+('Monster name:', u'monster1')
+('Monster friendly:', True)
+Monster inventory: 
+1
+2
+3
+('Monster color: ', 0)
+Monster weapon: 
+('Name: ', u'w1')
+('Damage: ', 10)
+('Name: ', u'w2')
+('Damage: ', 20)
+Monster equipped
+name: "w1"
+damage: 10
+
+name: "w2"
+damage: 20
+
+Monster path:
+x: 1.0
+y: 2.0
+z: 3.0
+
+x: 3.0
+y: 2.0
+z: 1.0
+
+('Monster pos: ', 100.0, 200.0, 300.0)
+('Monster mana:', 100)
+('Monster hp:', 200)
+('Monster name:', u'monster2')
+('Monster friendly:', True)
+Monster inventory: 
+3
+2
+1
+('Monster color: ', 1)
+Monster weapon: 
+('Name: ', u'w3')
+('Damage: ', 10)
+('Name: ', u'w4')
+('Damage: ', 20)
+Monster equipped
+name: "w3"
+damage: 10
+
+name: "w4"
+damage: 20
+
+Monster path:
+x: 10.0
+y: 20.0
+z: 30.0
+
+x: 30.0
+y: 20.0
+z: 10.0
