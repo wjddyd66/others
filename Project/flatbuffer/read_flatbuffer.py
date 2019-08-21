@@ -1,16 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[7]:
-
 
 import MyGame.Sample.Monster as example
 import MyGame.Sample.Equipment as equip
 import MyGame.Sample.Weapon as weapon
 import sys
-
-
-# In[9]:
 
 
 buf = open(sys.argv[1], 'rb').read()

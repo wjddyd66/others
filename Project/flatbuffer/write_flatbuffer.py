@@ -1,23 +1,5 @@
 #!/usr/bin/python
-# Copyright 2015 Google Inc. All rights reserved.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
 
-# To run this file, use `python_sample.sh`.
-
-# Append paths to the `flatbuffers` and `MyGame` modules. This is necessary
-# to facilitate executing this script in the `samples` folder, and to root
-# folder (where it gets placed when using `cmake`).
 import sys
 import flatbuffers
 import MyGame.Sample.Color
@@ -43,7 +25,6 @@ def main():
     imsi = [name, damage]
     input_weapons.append(imsi)
     
-  # Create some weapons for our Monster ('Sword' and 'Axe').
   for w in input_weapons:
     weapon_imsi = builder.CreateString(w[0])
    
@@ -56,7 +37,6 @@ def main():
   
   for o in output_weapons:
     builder.PrependUOffsetTRelative(o)
-  # Note: Since we prepend the data, prepend the weapons in reverse order.
   weapons = builder.EndVector(len(input_weapons))
 
  # Add_name
@@ -125,74 +105,7 @@ def main():
 
   builder.Finish(orc)
 
-  # We now have a FlatBuffer that we could store on disk or send over a network.
-
-  # ...Saving to file or sending over a network code goes here...
-
-  # Instead, we are going to access this buffer right away (as if we just
-  # received it).
-
   buf = builder.Output()
-
-  # Note: We use `0` for the offset here, since we got the data using the
-  # `builder.Output()` method. This simulates the data you would store/receive
-  # in your FlatBuffer. If you wanted to read from the `builder.Bytes` directly,
-  # you would need to pass in the offset of `builder.Head()`, as the builder
-  # actually constructs the buffer backwards.
-
-  #Under Code = Exception Error
-  '''
-  monster = MyGame.Sample.Monster.Monster.GetRootAsMonster(buf, 0)
-  # Note: We did not set the `Mana` field explicitly, so we get a default value.
-  print(input_mana)
-  assert monster.Mana() == input_mana
-  assert monster.Hp() == input_hp
-  assert monster.Name() == input_name
-
-  if input_color == "Red":
-    assert monster.Color() == MyGame.Sample.Color.Color().Red  
-  elif input_color == "Green":
-    assert monster.Color() == MyGame.Sample.Color.Color().Red
-  elif input_color == "Blue":
-    assert monster.Color() == MyGame.Sample.Color.Color().Red  
-  else:
-    assert monster.Color() == MyGame.Sample.Color.Color().Red
-
-  assert monster.Pos().X() == x
-  assert monster.Pos().Y() == y
-  assert monster.Pos().Z() == z
-
-  # Get and test the `inventory` FlatBuffer `vector`.
-  for i in xrange(monster.InventoryLength()):
-    assert monster.Inventory(i) == i
-
-  # Get and test the `weapons` FlatBuffer `vector` of `table`s.
-  expected_weapon_names = []
-  expected_weapon_damages = []
-
-  for i_w in input_weapons:
-    expected_weapon.append(i_w[0])
-    expected_weapon_damages.append(i_w[1])
-
-  for i in xrange(monster.WeaponsLength()):
-    assert monster.Weapons(i).Name() == expected_weapon_names[i]
-    assert monster.Weapons(i).Damage() == expected_weapon_damages[i]
-
-  # Get and test the `equipped` FlatBuffer `union`.
-  assert monster.EquippedType() == MyGame.Sample.Equipment.Equipment().Weapon
-
-  # An example of how you can appropriately convert the table depending on the
-  # FlatBuffer `union` type. You could add `elif` and `else` clauses to handle
-  # the other FlatBuffer `union` types for this field.
-  if monster.EquippedType() == MyGame.Sample.Equipment.Equipment().Weapon:
-    # `monster.Equipped()` returns a `flatbuffers.Table`, which can be used
-    # to initialize a `MyGame.Sample.Weapon.Weapon()`, in this case.
-    union_weapon = MyGame.Sample.Weapon.Weapon()
-    union_weapon.Init(monster.Equipped().Bytes, monster.Equipped().Pos)
-
-    assert union_weapon.Name() == output_weapons[select_weapoon -1][0]
-    assert union_weapon.Damage() == output_weapons[select_weapoon -1][1]
-  '''
 
   with open(sys.argv[1], "wb") as f:
     f.write(buf)
