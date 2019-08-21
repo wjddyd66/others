@@ -25,7 +25,8 @@ for i in range(weapons_length):
 print("Monster Name",monster.Name())
 print('Monster Inventory')
 for i in range(monster.InventoryLength()):
-    print(monster.Inventory(i))
+    print(monster.Inventory(i), end=" ")
+print()
 print('Monster Pos')
 pos = monster.Pos()
 print('Pos.x: ',pos.X())
