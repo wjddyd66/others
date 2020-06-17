@@ -29,3 +29,6 @@
 
 **Library**  
 Project에서 사용한 Library는 requirements.txt에 있습니다.
+
+**Inference**  
+일반적인 Model과 다르게 MatrixFactorization은 Data로부터 Matrix를 만들고 이것을 Weight로 생각하여 Weight끼리 연산을하여 Update하는 형식입니다. 따라서, 사용한 Weight를 모두 Result Directory에 저장하였습니다. 또한, 실제 결과는 load_parameter_test.py로서 실행할 수 있습니다.
