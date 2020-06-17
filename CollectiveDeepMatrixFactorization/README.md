@@ -1,4 +1,6 @@
 ### Project
+GitHub: https://github.com/wjddyd66/others/tree/master/CollectiveDeepMatrixFactorization
+
 해당 Project Directory는 다음과 같이 구성되어 있습니다.
 - SNP_Data_Preprocessing.ipynb: SNPs Data Preprocessing
 - SNP_DATA: SNP_Data_Preprocessing 결과 Data
