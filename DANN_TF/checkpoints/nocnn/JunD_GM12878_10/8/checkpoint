@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jyhwang/Project_Biology/checkpoints/nocnn/JunD_GM12878_10/8/model-16"
+all_model_checkpoint_paths: "/home/jyhwang/Project_Biology/checkpoints/nocnn/JunD_GM12878_10/8/model-16"

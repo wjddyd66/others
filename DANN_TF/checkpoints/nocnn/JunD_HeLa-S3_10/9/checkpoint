@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jyhwang/Project_Biology/checkpoints/nocnn/JunD_HeLa-S3_10/9/model-13"
+all_model_checkpoint_paths: "/home/jyhwang/Project_Biology/checkpoints/nocnn/JunD_HeLa-S3_10/9/model-13"

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jyhwang/Project_Biology/checkpoints/nocnn/JunD_HepG2_10/8/model-19"
+all_model_checkpoint_paths: "/home/jyhwang/Project_Biology/checkpoints/nocnn/JunD_HepG2_10/8/model-19"

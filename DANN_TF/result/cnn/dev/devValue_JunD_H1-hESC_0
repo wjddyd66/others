@@ -1,0 +1,500 @@
+ecoch :0Evaluation  :0.0AUC: 0.47068138691698086target_acc: 0.4592192
+ecoch :0Evaluation  :1.0AUC: 0.8852837213564269target_acc: 0.8122922
+ecoch :1Evaluation  :0.0AUC: 0.8924636085475346target_acc: 0.820487
+ecoch :1Evaluation  :1.0AUC: 0.8667748718788049target_acc: 0.7900271
+ecoch :2Evaluation  :0.0AUC: 0.8908198195680128target_acc: 0.8224971
+ecoch :2Evaluation  :1.0AUC: 0.899561961231116target_acc: 0.82937765
+ecoch :3Evaluation  :0.0AUC: 0.9138640095181781target_acc: 0.84221107
+ecoch :3Evaluation  :1.0AUC: 0.8697342707436466target_acc: 0.79729414
+ecoch :4Evaluation  :0.0AUC: 0.8590051411763213target_acc: 0.7993815
+ecoch :4Evaluation  :1.0AUC: 0.9084333262640478target_acc: 0.8287592
+ecoch :5Evaluation  :0.0AUC: 0.8982165518099867target_acc: 0.82265174
+ecoch :5Evaluation  :1.0AUC: 0.8671781381192396target_acc: 0.7928102
+ecoch :6Evaluation  :0.0AUC: 0.890563305836118target_acc: 0.80997294
+ecoch :6Evaluation  :1.0AUC: 0.90669714911851target_acc: 0.8382683
+ecoch :7Evaluation  :0.0AUC: 0.8926768277080647target_acc: 0.82265174
+ecoch :7Evaluation  :1.0AUC: 0.8797524616673754target_acc: 0.795516
+ecoch :8Evaluation  :0.0AUC: 0.9057589800096741target_acc: 0.83192885
+ecoch :8Evaluation  :1.0AUC: 0.9139502985044234target_acc: 0.8383456
+ecoch :9Evaluation  :0.0AUC: 0.9199027617854403target_acc: 0.8530344
+ecoch :9Evaluation  :1.0AUC: 0.8838207466433381target_acc: 0.8047159
+ecoch :10Evaluation  :0.0AUC: 0.9149908089683108target_acc: 0.82922304
+ecoch :10Evaluation  :1.0AUC: 0.9096273727730311target_acc: 0.84043294
+ecoch :11Evaluation  :0.0AUC: 0.9132549199729985target_acc: 0.8394279
+ecoch :11Evaluation  :1.0AUC: 0.9079082925408665target_acc: 0.8296869
+ecoch :12Evaluation  :0.0AUC: 0.9052258060426254target_acc: 0.82218784
+ecoch :12Evaluation  :1.0AUC: 0.9105029172328819target_acc: 0.84221107
+ecoch :13Evaluation  :0.0AUC: 0.9160226989379551target_acc: 0.84197915
+ecoch :13Evaluation  :1.0AUC: 0.9093362329890513target_acc: 0.83641285
+ecoch :14Evaluation  :0.0AUC: 0.9118555784346835target_acc: 0.8384229
+ecoch :14Evaluation  :1.0AUC: 0.9246171636105452target_acc: 0.8490916
+ecoch :15Evaluation  :0.0AUC: 0.9166517188737244target_acc: 0.8497874
+ecoch :15Evaluation  :1.0AUC: 0.9200370638029913target_acc: 0.85172015
+ecoch :16Evaluation  :0.0AUC: 0.9118798911099508target_acc: 0.8439892
+ecoch :16Evaluation  :1.0AUC: 0.9132232714732429target_acc: 0.83788174
+ecoch :17Evaluation  :0.0AUC: 0.9146706140366043target_acc: 0.8483185
+ecoch :17Evaluation  :1.0AUC: 0.9180848340197072target_acc: 0.8481639
+ecoch :18Evaluation  :0.0AUC: 0.9035176034814695target_acc: 0.8330885
+ecoch :18Evaluation  :1.0AUC: 0.8847115990839127target_acc: 0.8098183
+ecoch :19Evaluation  :0.0AUC: 0.9053241493132996target_acc: 0.82930034
+ecoch :19Evaluation  :1.0AUC: 0.8727525603108026target_acc: 0.79636645
+ecoch :20Evaluation  :0.0AUC: 0.9086841610352507target_acc: 0.83904135
+ecoch :20Evaluation  :1.0AUC: 0.8193616012546444target_acc: 0.7550831
+ecoch :21Evaluation  :0.0AUC: 0.848010505188817target_acc: 0.77309626
+ecoch :21Evaluation  :1.0AUC: 0.858641591641953target_acc: 0.78422886
+ecoch :22Evaluation  :0.0AUC: 0.8558419240520531target_acc: 0.7798222
+ecoch :22Evaluation  :1.0AUC: 0.8622985541774291target_acc: 0.791264
+ecoch :23Evaluation  :0.0AUC: 0.8628316681131809target_acc: 0.7894859
+ecoch :23Evaluation  :1.0AUC: 0.8644888320656644target_acc: 0.7846154
+ecoch :24Evaluation  :0.0AUC: 0.8617766060629113target_acc: 0.7802087
+ecoch :24Evaluation  :1.0AUC: 0.8634648061959214target_acc: 0.79165053
+ecoch :0Evaluation  :0.0AUC: 0.4978938134011965target_acc: 0.5412447
+ecoch :0Evaluation  :1.0AUC: 0.8920976988877641target_acc: 0.83324313
+ecoch :1Evaluation  :0.0AUC: 0.9029433708603575target_acc: 0.84159255
+ecoch :1Evaluation  :1.0AUC: 0.9102120445106118target_acc: 0.85148823
+ecoch :2Evaluation  :0.0AUC: 0.8863688549720623target_acc: 0.8202551
+ecoch :2Evaluation  :1.0AUC: 0.9061461315037773target_acc: 0.8339389
+ecoch :3Evaluation  :0.0AUC: 0.8698255205426244target_acc: 0.7986857
+ecoch :3Evaluation  :1.0AUC: 0.8464333369292499target_acc: 0.7711635
+ecoch :4Evaluation  :0.0AUC: 0.9183234479323553target_acc: 0.85032856
+ecoch :4Evaluation  :1.0AUC: 0.9026377420185453target_acc: 0.8330112
+ecoch :5Evaluation  :0.0AUC: 0.8949113712462325target_acc: 0.82512563
+ecoch :5Evaluation  :1.0AUC: 0.8995388513756644target_acc: 0.8265172
+ecoch :6Evaluation  :0.0AUC: 0.8766325978841472target_acc: 0.8095864
+ecoch :6Evaluation  :1.0AUC: 0.9176377326316145target_acc: 0.8480866
+ecoch :7Evaluation  :0.0AUC: 0.9133770528435589target_acc: 0.84569
+ecoch :7Evaluation  :1.0AUC: 0.9138359895218744target_acc: 0.83911866
+ecoch :8Evaluation  :0.0AUC: 0.8936576623856005target_acc: 0.82357943
+ecoch :8Evaluation  :1.0AUC: 0.8617138523612922target_acc: 0.78407425
+ecoch :9Evaluation  :0.0AUC: 0.9109033919698801target_acc: 0.83509856
+ecoch :9Evaluation  :1.0AUC: 0.9139640489212177target_acc: 0.8504832
+ecoch :10Evaluation  :0.0AUC: 0.9107704706217226target_acc: 0.84460765
+ecoch :10Evaluation  :1.0AUC: 0.9069758760208829target_acc: 0.8289911
+ecoch :11Evaluation  :0.0AUC: 0.894982194436265target_acc: 0.81955934
+ecoch :11Evaluation  :1.0AUC: 0.9209511868522506target_acc: 0.85156554
+ecoch :12Evaluation  :0.0AUC: 0.9088266538580791target_acc: 0.8394279
+ecoch :12Evaluation  :1.0AUC: 0.8987375925834195target_acc: 0.8299188
+ecoch :13Evaluation  :0.0AUC: 0.9215326711166495target_acc: 0.8602242
+ecoch :13Evaluation  :1.0AUC: 0.9127609091420668target_acc: 0.8453034
+ecoch :14Evaluation  :0.0AUC: 0.9077366265960249target_acc: 0.8385002
+ecoch :14Evaluation  :1.0AUC: 0.8937896691097236target_acc: 0.82442987
+ecoch :15Evaluation  :0.0AUC: 0.9038564905789153target_acc: 0.8368767
+ecoch :15Evaluation  :1.0AUC: 0.9061487670651394target_acc: 0.83641285
+ecoch :16Evaluation  :0.0AUC: 0.8823011367862124target_acc: 0.8063394
+ecoch :16Evaluation  :1.0AUC: 0.9014008814953892target_acc: 0.8313104
+ecoch :17Evaluation  :0.0AUC: 0.8991448891073717target_acc: 0.8296869
+ecoch :17Evaluation  :1.0AUC: 0.9131596852210668target_acc: 0.84313875
+ecoch :18Evaluation  :0.0AUC: 0.8960675763709866target_acc: 0.82257444
+ecoch :18Evaluation  :1.0AUC: 0.9092361527004299target_acc: 0.8412833
+ecoch :19Evaluation  :0.0AUC: 0.9149194579668399target_acc: 0.84855044
+ecoch :19Evaluation  :1.0AUC: 0.8942829643619634target_acc: 0.8235021
+ecoch :20Evaluation  :0.0AUC: 0.9128516013357941target_acc: 0.8439119
+ecoch :20Evaluation  :1.0AUC: 0.8764308029392935target_acc: 0.80208737
+ecoch :21Evaluation  :0.0AUC: 0.9070007393531866target_acc: 0.8425203
+ecoch :21Evaluation  :1.0AUC: 0.8744205916914687target_acc: 0.8024739
+ecoch :22Evaluation  :0.0AUC: 0.8815595090741055target_acc: 0.8072671
+ecoch :22Evaluation  :1.0AUC: 0.9015203241735662target_acc: 0.832702
+ecoch :23Evaluation  :0.0AUC: 0.8872346067932593target_acc: 0.8153073
+ecoch :23Evaluation  :1.0AUC: 0.8930947955341123target_acc: 0.82288367
+ecoch :24Evaluation  :0.0AUC: 0.8894454456368414target_acc: 0.81801313
+ecoch :24Evaluation  :1.0AUC: 0.8658873299683834target_acc: 0.7918825
+ecoch :0Evaluation  :0.0AUC: 0.47580790546137897target_acc: 0.45898724
+ecoch :0Evaluation  :1.0AUC: 0.7829095085903174target_acc: 0.7057596
+ecoch :1Evaluation  :0.0AUC: 0.9099083652621364target_acc: 0.84708154
+ecoch :1Evaluation  :1.0AUC: 0.9100957548784481target_acc: 0.84731346
+ecoch :2Evaluation  :0.0AUC: 0.8545339694495354target_acc: 0.7863162
+ecoch :2Evaluation  :1.0AUC: 0.8870310668420242target_acc: 0.82141477
+ecoch :3Evaluation  :0.0AUC: 0.8649661711859444target_acc: 0.8006958
+ecoch :3Evaluation  :1.0AUC: 0.9070637160317658target_acc: 0.84329337
+ecoch :4Evaluation  :0.0AUC: 0.8981799607510758target_acc: 0.82930034
+ecoch :4Evaluation  :1.0AUC: 0.9140054597278281target_acc: 0.8457673
+ecoch :5Evaluation  :0.0AUC: 0.9066143227331778target_acc: 0.83795905
+ecoch :5Evaluation  :1.0AUC: 0.8471193771622132target_acc: 0.785775
+ecoch :6Evaluation  :0.0AUC: 0.912444557536904target_acc: 0.84035563
+ecoch :6Evaluation  :1.0AUC: 0.9212251167505545target_acc: 0.8458446
+ecoch :7Evaluation  :0.0AUC: 0.9016877003718622target_acc: 0.8290684
+ecoch :7Evaluation  :1.0AUC: 0.9098042786401158target_acc: 0.835717
+ecoch :8Evaluation  :0.0AUC: 0.9049065391430444target_acc: 0.83239275
+ecoch :8Evaluation  :1.0AUC: 0.8887686238513827target_acc: 0.8106687
+ecoch :9Evaluation  :0.0AUC: 0.9057278594914123target_acc: 0.8296869
+ecoch :9Evaluation  :1.0AUC: 0.9008315761720799target_acc: 0.83478934
+ecoch :10Evaluation  :0.0AUC: 0.9107910496624965target_acc: 0.8466177
+ecoch :10Evaluation  :1.0AUC: 0.8961326951953308target_acc: 0.8188636
+ecoch :11Evaluation  :0.0AUC: 0.898622759128995target_acc: 0.8243525
+ecoch :11Evaluation  :1.0AUC: 0.9001400120913299target_acc: 0.8286819
+ecoch :12Evaluation  :0.0AUC: 0.8973991967579178target_acc: 0.8330885
+ecoch :12Evaluation  :1.0AUC: 0.9190633426726074target_acc: 0.8439892
+ecoch :13Evaluation  :0.0AUC: 0.9236266908088901target_acc: 0.8440665
+ecoch :13Evaluation  :1.0AUC: 0.9210938200635105target_acc: 0.8514109
+ecoch :14Evaluation  :0.0AUC: 0.9178777131299046target_acc: 0.8507151
+ecoch :14Evaluation  :1.0AUC: 0.5target_acc: 0.54101276
+ecoch :15Evaluation  :0.0AUC: 0.4999285510145756target_acc: 0.54101276
+ecoch :15Evaluation  :1.0AUC: 0.49994129557842343target_acc: 0.54101276
+ecoch :16Evaluation  :0.0AUC: 0.49990829690602423target_acc: 0.54101276
+ecoch :16Evaluation  :1.0AUC: 0.4998571020291512target_acc: 0.54101276
+ecoch :17Evaluation  :0.0AUC: 0.4998571020291512target_acc: 0.54101276
+ecoch :17Evaluation  :1.0AUC: 0.4999285510145756target_acc: 0.54101276
+ecoch :18Evaluation  :0.0AUC: 0.4999285510145756target_acc: 0.54101276
+ecoch :18Evaluation  :1.0AUC: 0.4999285510145756target_acc: 0.54101276
+ecoch :19Evaluation  :0.0AUC: 0.4999285510145756target_acc: 0.54101276
+ecoch :19Evaluation  :1.0AUC: 0.4999285510145756target_acc: 0.54101276
+ecoch :20Evaluation  :0.0AUC: 0.4999285510145756target_acc: 0.54101276
+ecoch :20Evaluation  :1.0AUC: 0.4999285510145756target_acc: 0.54101276
+ecoch :21Evaluation  :0.0AUC: 0.4999285510145756target_acc: 0.54101276
+ecoch :21Evaluation  :1.0AUC: 0.5target_acc: 0.54101276
+ecoch :22Evaluation  :0.0AUC: 0.5target_acc: 0.54101276
+ecoch :22Evaluation  :1.0AUC: 0.4999285510145756target_acc: 0.54101276
+ecoch :23Evaluation  :0.0AUC: 0.4999285510145756target_acc: 0.54101276
+ecoch :23Evaluation  :1.0AUC: 0.4999285510145756target_acc: 0.54101276
+ecoch :24Evaluation  :0.0AUC: 0.4999285510145756target_acc: 0.54101276
+ecoch :24Evaluation  :1.0AUC: 0.5target_acc: 0.54101276
+ecoch :0  Evaluation  :0.0AUC: 0.5013492410992453target_acc: 0.53872913
+ecoch :0  Evaluation  :1.0AUC: 0.8683914166869153target_acc: 0.79931974
+ecoch :1  Evaluation  :0.0AUC: 0.9002649236047124target_acc: 0.83951765
+ecoch :1  Evaluation  :1.0AUC: 0.8993298602005932target_acc: 0.8153989
+ecoch :2  Evaluation  :0.0AUC: 0.874652257696666target_acc: 0.80573595
+ecoch :2  Evaluation  :1.0AUC: 0.9041676750860665target_acc: 0.8284632
+ecoch :3  Evaluation  :0.0AUC: 0.8613435153620566target_acc: 0.7985467
+ecoch :3  Evaluation  :1.0AUC: 0.8986097284605226target_acc: 0.8198052
+ecoch :4  Evaluation  :0.0AUC: 0.9045497357259537target_acc: 0.8237477
+ecoch :4  Evaluation  :1.0AUC: 0.8937085696001847target_acc: 0.8206555
+ecoch :5  Evaluation  :0.0AUC: 0.8912118594932963target_acc: 0.8247526
+ecoch :5  Evaluation  :1.0AUC: 0.915101427344485target_acc: 0.85289115
+ecoch :6  Evaluation  :0.0AUC: 0.8961862259934034target_acc: 0.824598
+ecoch :6  Evaluation  :1.0AUC: 0.9080712685875953target_acc: 0.83526593
+ecoch :7  Evaluation  :0.0AUC: 0.9224260766430821target_acc: 0.8582251
+ecoch :7  Evaluation  :1.0AUC: 0.8401065877252705target_acc: 0.771645
+ecoch :8  Evaluation  :0.0AUC: 0.8896994108264549target_acc: 0.8203463
+ecoch :8  Evaluation  :1.0AUC: 0.901952211746422target_acc: 0.83441556
+ecoch :9  Evaluation  :0.0AUC: 0.916186406426298target_acc: 0.8479437
+ecoch :9  Evaluation  :1.0AUC: 0.914400650039575target_acc: 0.8279221
+ecoch :10  Evaluation  :0.0AUC: 0.9122947816401109target_acc: 0.8494125
+ecoch :10  Evaluation  :1.0AUC: 0.9045281800094787target_acc: 0.81431663
+ecoch :11  Evaluation  :0.0AUC: 0.8840695436491229target_acc: 0.81864566
+ecoch :11  Evaluation  :1.0AUC: 0.9091011314345377target_acc: 0.8333333
+ecoch :12  Evaluation  :0.0AUC: 0.8871339557867236target_acc: 0.8116883
+ecoch :12  Evaluation  :1.0AUC: 0.9136400652445349target_acc: 0.844697
+ecoch :13  Evaluation  :0.0AUC: 0.9185475633139027target_acc: 0.84438777
+ecoch :13  Evaluation  :1.0AUC: 0.8729935862120399target_acc: 0.79955167
+ecoch :14  Evaluation  :0.0AUC: 0.8352820887874187target_acc: 0.75672543
+ecoch :14  Evaluation  :1.0AUC: 0.9049243505017237target_acc: 0.8306277
+ecoch :15  Evaluation  :0.0AUC: 0.905841935972786target_acc: 0.83758503
+ecoch :15  Evaluation  :1.0AUC: 0.9103267760009817target_acc: 0.83549786
+ecoch :16  Evaluation  :0.0AUC: 0.924063529219303target_acc: 0.8589981
+ecoch :16  Evaluation  :1.0AUC: 0.9210485316371038target_acc: 0.8478664
+ecoch :17  Evaluation  :0.0AUC: 0.927113951793142target_acc: 0.8536642
+ecoch :17  Evaluation  :1.0AUC: 0.9159034996764236target_acc: 0.84183675
+ecoch :18  Evaluation  :0.0AUC: 0.8993441745435649target_acc: 0.82560295
+ecoch :18  Evaluation  :1.0AUC: 0.9229616255319764target_acc: 0.8640229
+ecoch :19  Evaluation  :0.0AUC: 0.8905435360516952target_acc: 0.8170996
+ecoch :19  Evaluation  :1.0AUC: 0.9280496888134011target_acc: 0.8557514
+ecoch :20  Evaluation  :0.0AUC: 0.9241566325929169target_acc: 0.8499536
+ecoch :20  Evaluation  :1.0AUC: 0.9088714403597111target_acc: 0.8340291
+ecoch :21  Evaluation  :0.0AUC: 0.9052987126714412target_acc: 0.8327922
+ecoch :21  Evaluation  :1.0AUC: 0.8974042081762565target_acc: 0.8237477
+ecoch :22  Evaluation  :0.0AUC: 0.8936175953347271target_acc: 0.8165584
+ecoch :22  Evaluation  :1.0AUC: 0.9204304527422191target_acc: 0.8525819
+ecoch :23  Evaluation  :0.0AUC: 0.9169759687442111target_acc: 0.84887135
+ecoch :23  Evaluation  :1.0AUC: 0.9075802625659483target_acc: 0.83557516
+ecoch :24  Evaluation  :0.0AUC: 0.9220600384442355target_acc: 0.84485155
+ecoch :24  Evaluation  :1.0AUC: 0.9259429062206045target_acc: 0.8596939
+ecoch :0Evaluation  :0.0AUC: 0.49211255912141794target_acc: 0.54101276
+ecoch :0Evaluation  :1.0AUC: 0.8880313767070194target_acc: 0.8190955
+ecoch :1Evaluation  :0.0AUC: 0.8797514778759907target_acc: 0.8201005
+ecoch :1Evaluation  :1.0AUC: 0.8708927303419255target_acc: 0.80054116
+ecoch :2Evaluation  :0.0AUC: 0.8806810848962212target_acc: 0.8122922
+ecoch :2Evaluation  :1.0AUC: 0.903031295112928target_acc: 0.8346347
+ecoch :3Evaluation  :0.0AUC: 0.9132045017987527target_acc: 0.8483958
+ecoch :3Evaluation  :1.0AUC: 0.9052045621639389target_acc: 0.84143794
+ecoch :4Evaluation  :0.0AUC: 0.9057871054666935target_acc: 0.84190184
+ecoch :4Evaluation  :1.0AUC: 0.9150625244210634target_acc: 0.85318905
+ecoch :5Evaluation  :0.0AUC: 0.881759751565006target_acc: 0.8112872
+ecoch :5Evaluation  :1.0AUC: 0.9126077938579915target_acc: 0.8385002
+ecoch :6Evaluation  :0.0AUC: 0.9070036998467715target_acc: 0.8401237
+ecoch :6Evaluation  :1.0AUC: 0.8750550399081757target_acc: 0.80193275
+ecoch :7Evaluation  :0.0AUC: 0.9069023570968543target_acc: 0.82528025
+ecoch :7Evaluation  :1.0AUC: 0.9020843463396241target_acc: 0.8311558
+ecoch :8Evaluation  :0.0AUC: 0.9083371133781913target_acc: 0.84360266
+ecoch :8Evaluation  :1.0AUC: 0.902164604598643target_acc: 0.83069193
+ecoch :9Evaluation  :0.0AUC: 0.9029252227939906target_acc: 0.81816775
+ecoch :9Evaluation  :1.0AUC: 0.8973501921649165target_acc: 0.82528025
+ecoch :10Evaluation  :0.0AUC: 0.9115973268524036target_acc: 0.8401237
+ecoch :10Evaluation  :1.0AUC: 0.8824303033620183target_acc: 0.8102822
+ecoch :11Evaluation  :0.0AUC: 0.9097812084523005target_acc: 0.8361036
+ecoch :11Evaluation  :1.0AUC: 0.9065255680982602target_acc: 0.83772707
+ecoch :12Evaluation  :0.0AUC: 0.8842732948603953target_acc: 0.8163123
+ecoch :12Evaluation  :1.0AUC: 0.9141814285782368target_acc: 0.8483958
+ecoch :13Evaluation  :0.0AUC: 0.9050081947906576target_acc: 0.83084655
+ecoch :13Evaluation  :1.0AUC: 0.8971696140907556target_acc: 0.8313104
+ecoch :14Evaluation  :0.0AUC: 0.9152751745090623target_acc: 0.8442211
+ecoch :14Evaluation  :1.0AUC: 0.907668739830524target_acc: 0.83880943
+ecoch :15Evaluation  :0.0AUC: 0.9099268743643061target_acc: 0.84460765
+ecoch :15Evaluation  :1.0AUC: 0.8890326734032097target_acc: 0.81561655
+ecoch :16Evaluation  :0.0AUC: 0.9108775538409082target_acc: 0.84182453
+ecoch :16Evaluation  :1.0AUC: 0.8929190794087658target_acc: 0.8200232
+ecoch :17Evaluation  :0.0AUC: 0.9169574810060268target_acc: 0.8384229
+ecoch :17Evaluation  :1.0AUC: 0.9141737746192118target_acc: 0.84754544
+ecoch :18Evaluation  :0.0AUC: 0.9067299865699494target_acc: 0.834712
+ecoch :18Evaluation  :1.0AUC: 0.8899770708568385target_acc: 0.81291074
+ecoch :19Evaluation  :0.0AUC: 0.9187731541286394target_acc: 0.8549671
+ecoch :19Evaluation  :1.0AUC: 0.9103198979395108target_acc: 0.84360266
+ecoch :20Evaluation  :0.0AUC: 0.9160424598322396target_acc: 0.8496328
+ecoch :20Evaluation  :1.0AUC: 0.8926511186357391target_acc: 0.8066486
+ecoch :21Evaluation  :0.0AUC: 0.5000842176183258target_acc: 0.54101276
+ecoch :21Evaluation  :1.0AUC: 0.5target_acc: 0.54101276
+ecoch :22Evaluation  :0.0AUC: 0.5target_acc: 0.54101276
+ecoch :22Evaluation  :1.0AUC: 0.5003496752097847target_acc: 0.54101276
+ecoch :23Evaluation  :0.0AUC: 0.5004596346808682target_acc: 0.54101276
+ecoch :23Evaluation  :1.0AUC: 0.5target_acc: 0.54101276
+ecoch :24Evaluation  :0.0AUC: 0.5target_acc: 0.54101276
+ecoch :24Evaluation  :1.0AUC: 0.5target_acc: 0.54101276
+ecoch :0  Evaluation  :0.0AUC: 0.4965150791910671target_acc: 0.46146116
+ecoch :0  Evaluation  :1.0AUC: 0.8181099085338497target_acc: 0.735833
+ecoch :1  Evaluation  :0.0AUC: 0.8950888865184727target_acc: 0.8233475
+ecoch :1  Evaluation  :1.0AUC: 0.8844093956434604target_acc: 0.81971395
+ecoch :2  Evaluation  :0.0AUC: 0.9042563589742922target_acc: 0.83239275
+ecoch :2  Evaluation  :1.0AUC: 0.9037759407212471target_acc: 0.8331658
+ecoch :3  Evaluation  :0.0AUC: 0.8769920216890197target_acc: 0.81252414
+ecoch :3  Evaluation  :1.0AUC: 0.9099268821221045target_acc: 0.8395825
+ecoch :4  Evaluation  :0.0AUC: 0.9115984706100224target_acc: 0.8396598
+ecoch :4  Evaluation  :1.0AUC: 0.9229722223946307target_acc: 0.8562041
+ecoch :5  Evaluation  :0.0AUC: 0.9001282382343356target_acc: 0.82945496
+ecoch :5  Evaluation  :1.0AUC: 0.8969308586957846target_acc: 0.8306146
+ecoch :6  Evaluation  :0.0AUC: 0.9084973070355702target_acc: 0.8273676
+ecoch :6  Evaluation  :1.0AUC: 0.9142381969029695target_acc: 0.84367996
+ecoch :7  Evaluation  :0.0AUC: 0.897744779114176target_acc: 0.82698107
+ecoch :7  Evaluation  :1.0AUC: 0.9122782612352316target_acc: 0.84445304
+ecoch :8  Evaluation  :0.0AUC: 0.8818113962138038target_acc: 0.81020486
+ecoch :8  Evaluation  :1.0AUC: 0.8861230357641439target_acc: 0.8105914
+ecoch :9  Evaluation  :0.0AUC: 0.90349158700312target_acc: 0.83231544
+ecoch :9  Evaluation  :1.0AUC: 0.9134804255182587target_acc: 0.8495555
+ecoch :10  Evaluation  :0.0AUC: 0.9044764444218629target_acc: 0.83223814
+ecoch :10  Evaluation  :1.0AUC: 0.9008002464206435target_acc: 0.8320835
+ecoch :11  Evaluation  :0.0AUC: 0.9191629531081473target_acc: 0.85682255
+ecoch :11  Evaluation  :1.0AUC: 0.9216691149473684target_acc: 0.8523386
+ecoch :12  Evaluation  :0.0AUC: 0.8941237919237096target_acc: 0.7996908
+ecoch :12  Evaluation  :1.0AUC: 0.9038051098315034target_acc: 0.8305373
+ecoch :13  Evaluation  :0.0AUC: 0.9092857631214205target_acc: 0.8413606
+ecoch :13  Evaluation  :1.0AUC: 0.9154438614792272target_acc: 0.84754544
+ecoch :14  Evaluation  :0.0AUC: 0.9212745200352214target_acc: 0.8482412
+ecoch :14  Evaluation  :1.0AUC: 0.9113212377633477target_acc: 0.8395052
+ecoch :15  Evaluation  :0.0AUC: 0.9016395469720828target_acc: 0.82821804
+ecoch :15  Evaluation  :1.0AUC: 0.92014183236285target_acc: 0.8458446
+ecoch :16  Evaluation  :0.0AUC: 0.875445036423017target_acc: 0.792501
+ecoch :16  Evaluation  :1.0AUC: 0.9191814168542272target_acc: 0.8491689
+ecoch :17  Evaluation  :0.0AUC: 0.8744378420814922target_acc: 0.8012369
+ecoch :17  Evaluation  :1.0AUC: 0.9206626423157882target_acc: 0.8562814
+ecoch :18  Evaluation  :0.0AUC: 0.8835999498267247target_acc: 0.8118284
+ecoch :18  Evaluation  :1.0AUC: 0.9094645186461703target_acc: 0.8372632
+ecoch :19  Evaluation  :0.0AUC: 0.9075235759784716target_acc: 0.83347505
+ecoch :19  Evaluation  :1.0AUC: 0.9179434437294544target_acc: 0.84190184
+ecoch :20  Evaluation  :0.0AUC: 0.9202213768272313target_acc: 0.84468496
+ecoch :20  Evaluation  :1.0AUC: 0.9227843492675822target_acc: 0.85558563
+ecoch :21  Evaluation  :0.0AUC: 0.8963268957287425target_acc: 0.8218013
+ecoch :21  Evaluation  :1.0AUC: 0.9195733534680786target_acc: 0.8504059
+ecoch :22  Evaluation  :0.0AUC: 0.9081638289272219target_acc: 0.83664477
+ecoch :22  Evaluation  :1.0AUC: 0.912436183399584target_acc: 0.8401237
+ecoch :23  Evaluation  :0.0AUC: 0.9167285532944062target_acc: 0.84151524
+ecoch :23  Evaluation  :1.0AUC: 0.9083891948858864target_acc: 0.83046
+ecoch :24  Evaluation  :0.0AUC: 0.9192697902369291target_acc: 0.85403943
+ecoch :24  Evaluation  :1.0AUC: 0.9171112520209682target_acc: 0.85148823
+ecoch :0Evaluation  :0.0AUC: 0.4965008289622729target_acc: 0.45821413
+ecoch :0Evaluation  :1.0AUC: 0.8801582328462383target_acc: 0.7981446
+ecoch :1Evaluation  :0.0AUC: 0.8891247014294081target_acc: 0.82110554
+ecoch :1Evaluation  :1.0AUC: 0.8338042082622033target_acc: 0.76575184
+ecoch :2Evaluation  :0.0AUC: 0.9147834918834097target_acc: 0.84708154
+ecoch :2Evaluation  :1.0AUC: 0.8770122992382192target_acc: 0.8072671
+ecoch :3Evaluation  :0.0AUC: 0.8972053325662044target_acc: 0.8286819
+ecoch :3Evaluation  :1.0AUC: 0.9144871055581558target_acc: 0.8480866
+ecoch :4Evaluation  :0.0AUC: 0.9176259869334884target_acc: 0.8536529
+ecoch :4Evaluation  :1.0AUC: 0.9142968035863661target_acc: 0.84731346
+ecoch :5Evaluation  :0.0AUC: 0.9112063732158032target_acc: 0.84221107
+ecoch :5Evaluation  :1.0AUC: 0.9045012403505359target_acc: 0.83478934
+ecoch :6Evaluation  :0.0AUC: 0.9149596773553001target_acc: 0.8441438
+ecoch :6Evaluation  :1.0AUC: 0.8906641219900504target_acc: 0.8185543
+ecoch :7Evaluation  :0.0AUC: 0.9020607105290508target_acc: 0.8246618
+ecoch :7Evaluation  :1.0AUC: 0.9136686133235786target_acc: 0.8468496
+ecoch :8Evaluation  :0.0AUC: 0.9208199142342602target_acc: 0.85326636
+ecoch :8Evaluation  :1.0AUC: 0.9064362117370044target_acc: 0.83888674
+ecoch :9Evaluation  :0.0AUC: 0.8926902188132099target_acc: 0.8168535
+ecoch :9Evaluation  :1.0AUC: 0.9119015476545839target_acc: 0.8411287
+ecoch :10Evaluation  :0.0AUC: 0.9110495392629565target_acc: 0.83788174
+ecoch :10Evaluation  :1.0AUC: 0.8838941591290814target_acc: 0.8055663
+ecoch :11Evaluation  :0.0AUC: 0.9214060438259918target_acc: 0.85419405
+ecoch :11Evaluation  :1.0AUC: 0.8943760875300978target_acc: 0.8247391
+ecoch :12Evaluation  :0.0AUC: 0.8952201290650044target_acc: 0.821724
+ecoch :12Evaluation  :1.0AUC: 0.9059566117762272target_acc: 0.8287592
+ecoch :13Evaluation  :0.0AUC: 0.9130390992628468target_acc: 0.852184
+ecoch :13Evaluation  :1.0AUC: 0.8974761214530218target_acc: 0.8255122
+ecoch :14Evaluation  :0.0AUC: 0.9086014276896072target_acc: 0.838191
+ecoch :14Evaluation  :1.0AUC: 0.8950250493860874target_acc: 0.8230383
+ecoch :15Evaluation  :0.0AUC: 0.8955851001583118target_acc: 0.82682645
+ecoch :15Evaluation  :1.0AUC: 0.906295997465625target_acc: 0.8372632
+ecoch :16Evaluation  :0.0AUC: 0.870767282434891target_acc: 0.7935833
+ecoch :16Evaluation  :1.0AUC: 0.8493590025938257target_acc: 0.7679165
+ecoch :17Evaluation  :0.0AUC: 0.8981802736487718target_acc: 0.8245845
+ecoch :17Evaluation  :1.0AUC: 0.8985234863176818target_acc: 0.82844996
+ecoch :18Evaluation  :0.0AUC: 0.9030841026163879target_acc: 0.8361809
+ecoch :18Evaluation  :1.0AUC: 0.895069673411345target_acc: 0.82126015
+ecoch :19Evaluation  :0.0AUC: 0.8820949733081417target_acc: 0.8121376
+ecoch :19Evaluation  :1.0AUC: 0.8876285209234449target_acc: 0.81870896
+ecoch :20Evaluation  :0.0AUC: 0.8790961016172335target_acc: 0.80595285
+ecoch :20Evaluation  :1.0AUC: 0.8882915872448074target_acc: 0.81878626
+ecoch :21Evaluation  :0.0AUC: 0.8928795941264385target_acc: 0.82396597
+ecoch :21Evaluation  :1.0AUC: 0.8830954516565116target_acc: 0.8118284
+ecoch :22Evaluation  :0.0AUC: 0.8699524848000315target_acc: 0.7968303
+ecoch :22Evaluation  :1.0AUC: 0.8913087273473501target_acc: 0.824971
+ecoch :23Evaluation  :0.0AUC: 0.8923798483678509target_acc: 0.8272903
+ecoch :23Evaluation  :1.0AUC: 0.8678226503561282target_acc: 0.79335135
+ecoch :24Evaluation  :0.0AUC: 0.8623216441012069target_acc: 0.7894859
+ecoch :24Evaluation  :1.0AUC: 0.8684467248107607target_acc: 0.7986857
+ecoch :0  Evaluation  :0.0AUC: 0.4974230655236863target_acc: 0.5148048
+ecoch :0  Evaluation  :1.0AUC: 0.9015715409026308target_acc: 0.8463858
+ecoch :1  Evaluation  :0.0AUC: 0.8904638216523424target_acc: 0.8234248
+ecoch :1  Evaluation  :1.0AUC: 0.9039293253897808target_acc: 0.84615386
+ecoch :2  Evaluation  :0.0AUC: 0.9026035747724024target_acc: 0.84043294
+ecoch :2  Evaluation  :1.0AUC: 0.8846076516356913target_acc: 0.8194047
+ecoch :3  Evaluation  :0.0AUC: 0.9009921217045367target_acc: 0.83092386
+ecoch :3  Evaluation  :1.0AUC: 0.9064277704471635target_acc: 0.83772707
+ecoch :4  Evaluation  :0.0AUC: 0.9132918228147051target_acc: 0.85164285
+ecoch :4  Evaluation  :1.0AUC: 0.9077073785074801target_acc: 0.8416699
+ecoch :5  Evaluation  :0.0AUC: 0.8946167966246099target_acc: 0.8316969
+ecoch :5  Evaluation  :1.0AUC: 0.854816771200942target_acc: 0.7748744
+ecoch :6  Evaluation  :0.0AUC: 0.8794697871378546target_acc: 0.80448395
+ecoch :6  Evaluation  :1.0AUC: 0.8965039825504613target_acc: 0.82674915
+ecoch :7  Evaluation  :0.0AUC: 0.9037994189441474target_acc: 0.83641285
+ecoch :7  Evaluation  :1.0AUC: 0.8986024490050516target_acc: 0.82620794
+ecoch :8  Evaluation  :0.0AUC: 0.9028255128679437target_acc: 0.8354851
+ecoch :8  Evaluation  :1.0AUC: 0.8746729527079706target_acc: 0.8024739
+ecoch :9  Evaluation  :0.0AUC: 0.8936258480973021target_acc: 0.8255122
+ecoch :9  Evaluation  :1.0AUC: 0.8794863467999756target_acc: 0.8095864
+ecoch :10  Evaluation  :0.0AUC: 0.8536280119575244target_acc: 0.77294165
+ecoch :10  Evaluation  :1.0AUC: 0.9022953140066788target_acc: 0.8401237
+ecoch :11  Evaluation  :0.0AUC: 0.9001690026974869target_acc: 0.8330112
+ecoch :11  Evaluation  :1.0AUC: 0.8969863370234987target_acc: 0.8248937
+ecoch :12  Evaluation  :0.0AUC: 0.8396766293874716target_acc: 0.7696173
+ecoch :12  Evaluation  :1.0AUC: 0.9156046717172509target_acc: 0.8453034
+ecoch :13  Evaluation  :0.0AUC: 0.8921408616035652target_acc: 0.8230383
+ecoch :13  Evaluation  :1.0AUC: 0.9133194262748152target_acc: 0.8469269
+ecoch :14  Evaluation  :0.0AUC: 0.861376594090769target_acc: 0.78415155
+ecoch :14  Evaluation  :1.0AUC: 0.9220524030749218target_acc: 0.84715885
+ecoch :15  Evaluation  :0.0AUC: 0.9185504086977718target_acc: 0.85419405
+ecoch :15  Evaluation  :1.0AUC: 0.8943762108045954target_acc: 0.82690376
+ecoch :16  Evaluation  :0.0AUC: 0.9072941714865501target_acc: 0.8394279
+ecoch :16  Evaluation  :1.0AUC: 0.9114357284993667target_acc: 0.84715885
+ecoch :17  Evaluation  :0.0AUC: 0.9131480844647051target_acc: 0.84221107
+ecoch :17  Evaluation  :1.0AUC: 0.9058325519795966target_acc: 0.836954
+ecoch :18  Evaluation  :0.0AUC: 0.9099161743144384target_acc: 0.841206
+ecoch :18  Evaluation  :1.0AUC: 0.8843235423888485target_acc: 0.81662154
+ecoch :19  Evaluation  :0.0AUC: 0.8967100006792841target_acc: 0.8289138
+ecoch :19  Evaluation  :1.0AUC: 0.914583693715193target_acc: 0.8480866
+ecoch :20  Evaluation  :0.0AUC: 0.9154211032761432target_acc: 0.8522613
+ecoch :20  Evaluation  :1.0AUC: 0.9169933176694057target_acc: 0.8494782
+ecoch :21  Evaluation  :0.0AUC: 0.9050667158853942target_acc: 0.83764976
+ecoch :21  Evaluation  :1.0AUC: 0.9194658852372931target_acc: 0.85713184
+ecoch :22  Evaluation  :0.0AUC: 0.9130363188151123target_acc: 0.84615386
+ecoch :22  Evaluation  :1.0AUC: 0.9083861677480255target_acc: 0.84043294
+ecoch :23  Evaluation  :0.0AUC: 0.8985464092738356target_acc: 0.83100116
+ecoch :23  Evaluation  :1.0AUC: 0.9009103493205205target_acc: 0.8352532
+ecoch :24  Evaluation  :0.0AUC: 0.9143092161085633target_acc: 0.8480093
+ecoch :24  Evaluation  :1.0AUC: 0.9164215748161432target_acc: 0.84762275
+ecoch :0Evaluation  :0.0AUC: 0.5011197284741187target_acc: 0.4587553
+ecoch :0Evaluation  :1.0AUC: 0.8114736985658166target_acc: 0.74356395
+ecoch :1Evaluation  :0.0AUC: 0.8894772649256172target_acc: 0.82396597
+ecoch :1Evaluation  :1.0AUC: 0.914791121773381target_acc: 0.85334367
+ecoch :2Evaluation  :0.0AUC: 0.877269140108512target_acc: 0.80904526
+ecoch :2Evaluation  :1.0AUC: 0.8648022007587239target_acc: 0.7884036
+ecoch :3Evaluation  :0.0AUC: 0.9117937543983187target_acc: 0.84777737
+ecoch :3Evaluation  :1.0AUC: 0.8804997366123473target_acc: 0.8151527
+ecoch :4Evaluation  :0.0AUC: 0.9138296112226871target_acc: 0.84545803
+ecoch :4Evaluation  :1.0AUC: 0.8887769878474867target_acc: 0.8166989
+ecoch :5Evaluation  :0.0AUC: 0.9044331008599727target_acc: 0.83764976
+ecoch :5Evaluation  :1.0AUC: 0.8768359091793738target_acc: 0.80185544
+ecoch :6Evaluation  :0.0AUC: 0.902423395062272target_acc: 0.83324313
+ecoch :6Evaluation  :1.0AUC: 0.9096608391155623target_acc: 0.84159255
+ecoch :7Evaluation  :0.0AUC: 0.9233676476201989target_acc: 0.8588326
+ecoch :7Evaluation  :1.0AUC: 0.9174221701881377target_acc: 0.8467723
+ecoch :8Evaluation  :0.0AUC: 0.8904132261759815target_acc: 0.81577116
+ecoch :8Evaluation  :1.0AUC: 0.9076305061389804target_acc: 0.8384229
+ecoch :9Evaluation  :0.0AUC: 0.9204546783813639target_acc: 0.8531117
+ecoch :9Evaluation  :1.0AUC: 0.9144075332671627target_acc: 0.84151524
+ecoch :10Evaluation  :0.0AUC: 0.9013257980828806target_acc: 0.8192501
+ecoch :10Evaluation  :1.0AUC: 0.9025483254846557target_acc: 0.8296096
+ecoch :11Evaluation  :0.0AUC: 0.9089495143418583target_acc: 0.8326247
+ecoch :11Evaluation  :1.0AUC: 0.9100609510270337target_acc: 0.8413606
+ecoch :12Evaluation  :0.0AUC: 0.8608603276192919target_acc: 0.7814457
+ecoch :12Evaluation  :1.0AUC: 0.9076805095977036target_acc: 0.83649015
+ecoch :13Evaluation  :0.0AUC: 0.9140518407939937target_acc: 0.84367996
+ecoch :13Evaluation  :1.0AUC: 0.9111496544911433target_acc: 0.8435253
+ecoch :14Evaluation  :0.0AUC: 0.906161740284996target_acc: 0.83355236
+ecoch :14Evaluation  :1.0AUC: 0.8882591541951663target_acc: 0.81523
+ecoch :15Evaluation  :0.0AUC: 0.9010702449069521target_acc: 0.8281407
+ecoch :15Evaluation  :1.0AUC: 0.9089438340452238target_acc: 0.840201
+ecoch :16Evaluation  :0.0AUC: 0.9073820533338454target_acc: 0.833707
+ecoch :16Evaluation  :1.0AUC: 0.9013451255328707target_acc: 0.824971
+ecoch :17Evaluation  :0.0AUC: 0.9018632480138338target_acc: 0.8296096
+ecoch :17Evaluation  :1.0AUC: 0.894217075327906target_acc: 0.81731737
+ecoch :18Evaluation  :0.0AUC: 0.9087169952501649target_acc: 0.8384229
+ecoch :18Evaluation  :1.0AUC: 0.9104060771856998target_acc: 0.83811367
+ecoch :19Evaluation  :0.0AUC: 0.9203036089668393target_acc: 0.852184
+ecoch :19Evaluation  :1.0AUC: 0.8947488449622244target_acc: 0.8163123
+ecoch :20Evaluation  :0.0AUC: 0.87998900333082target_acc: 0.8112099
+ecoch :20Evaluation  :1.0AUC: 0.926486744233524target_acc: 0.85968304
+ecoch :21Evaluation  :0.0AUC: 0.921854967778036target_acc: 0.85280246
+ecoch :21Evaluation  :1.0AUC: 0.9039200449147794target_acc: 0.8299188
+ecoch :22Evaluation  :0.0AUC: 0.9111602689437532target_acc: 0.83649015
+ecoch :22Evaluation  :1.0AUC: 0.8994229227793037target_acc: 0.8194047
+ecoch :23Evaluation  :0.0AUC: 0.8908368896563386target_acc: 0.81144184
+ecoch :23Evaluation  :1.0AUC: 0.9006536577283348target_acc: 0.82767683
+ecoch :24Evaluation  :0.0AUC: 0.9071905960474861target_acc: 0.83502126
+ecoch :24Evaluation  :1.0AUC: 0.8900063147568859target_acc: 0.81151915
+ecoch :0Evaluation  :0.0AUC: 0.49420621777785545target_acc: 0.54078084
+ecoch :0Evaluation  :1.0AUC: 0.898106598275895target_acc: 0.82667184
+ecoch :1Evaluation  :0.0AUC: 0.8974187167603362target_acc: 0.8371859
+ecoch :1Evaluation  :1.0AUC: 0.8829721819988221target_acc: 0.81136453
+ecoch :2Evaluation  :0.0AUC: 0.9133043161637702target_acc: 0.85032856
+ecoch :2Evaluation  :1.0AUC: 0.8877783748507658target_acc: 0.81824505
+ecoch :3Evaluation  :0.0AUC: 0.9189398924970165target_acc: 0.84205645
+ecoch :3Evaluation  :1.0AUC: 0.9152933225754292target_acc: 0.85009664
+ecoch :4Evaluation  :0.0AUC: 0.9111317832188921target_acc: 0.8426749
+ecoch :4Evaluation  :1.0AUC: 0.9222362215860611target_acc: 0.85558563
+ecoch :5Evaluation  :0.0AUC: 0.8882754008063036target_acc: 0.8248164
+ecoch :5Evaluation  :1.0AUC: 0.9250429620571109target_acc: 0.85581756
+ecoch :6Evaluation  :0.0AUC: 0.9227087572796251target_acc: 0.8563587
+ecoch :6Evaluation  :1.0AUC: 0.9205037431469989target_acc: 0.85728645
+ecoch :7Evaluation  :0.0AUC: 0.8893241616760688target_acc: 0.8133746
+ecoch :7Evaluation  :1.0AUC: 0.9109514819388469target_acc: 0.84290683
+ecoch :8Evaluation  :0.0AUC: 0.8697508222349724target_acc: 0.79466563
+ecoch :8Evaluation  :1.0AUC: 0.9103518977461882target_acc: 0.8402783
+ecoch :9Evaluation  :0.0AUC: 0.9163919304550692target_acc: 0.84862775
+ecoch :9Evaluation  :1.0AUC: 0.8765931487054004target_acc: 0.7901044
+ecoch :10Evaluation  :0.0AUC: 0.9181886491980216target_acc: 0.85017395
+ecoch :10Evaluation  :1.0AUC: 0.9166459552460982target_acc: 0.8495555
+ecoch :11Evaluation  :0.0AUC: 0.9166885935744388target_acc: 0.8494782
+ecoch :11Evaluation  :1.0AUC: 0.8949805938442047target_acc: 0.8147661
+ecoch :12Evaluation  :0.0AUC: 0.9253775700393814target_acc: 0.86130655
+ecoch :12Evaluation  :1.0AUC: 0.9164254827156997target_acc: 0.84715885
+ecoch :13Evaluation  :0.0AUC: 0.9192843567567104target_acc: 0.85728645
+ecoch :13Evaluation  :1.0AUC: 0.9132609076257164target_acc: 0.8443757
+ecoch :14Evaluation  :0.0AUC: 0.9095766816698705target_acc: 0.83919597
+ecoch :14Evaluation  :1.0AUC: 0.92095662645835target_acc: 0.8531117
+ecoch :15Evaluation  :0.0AUC: 0.9097532763156708target_acc: 0.8316196
+ecoch :15Evaluation  :1.0AUC: 0.9139251412961753target_acc: 0.8326247
+ecoch :16Evaluation  :0.0AUC: 0.9129859186890568target_acc: 0.84599924
+ecoch :16Evaluation  :1.0AUC: 0.9086396854502042target_acc: 0.83664477
+ecoch :17Evaluation  :0.0AUC: 0.9134714516715308target_acc: 0.84569
+ecoch :17Evaluation  :1.0AUC: 0.9079381808503433target_acc: 0.836954
+ecoch :18Evaluation  :0.0AUC: 0.9166268925556967target_acc: 0.8483185
+ecoch :18Evaluation  :1.0AUC: 0.9229779937124893target_acc: 0.8437573
+ecoch :19Evaluation  :0.0AUC: 0.9166045925775949target_acc: 0.84878236
+ecoch :19Evaluation  :1.0AUC: 0.9051030388961201target_acc: 0.83741784
+ecoch :20Evaluation  :0.0AUC: 0.8992611185669017target_acc: 0.82844996
+ecoch :20Evaluation  :1.0AUC: 0.9178889654124331target_acc: 0.85419405
+ecoch :21Evaluation  :0.0AUC: 0.9016752085330765target_acc: 0.8327793
+ecoch :21Evaluation  :1.0AUC: 0.8992400822141102target_acc: 0.8311558
+ecoch :22Evaluation  :0.0AUC: 0.8708833434110459target_acc: 0.7968303
+ecoch :22Evaluation  :1.0AUC: 0.8948209438120943target_acc: 0.8233475
+ecoch :23Evaluation  :0.0AUC: 0.8853972715224634target_acc: 0.81414765
+ecoch :23Evaluation  :1.0AUC: 0.8940923374579508target_acc: 0.8235021
+ecoch :24Evaluation  :0.0AUC: 0.9009264082430155target_acc: 0.8360263
+ecoch :24Evaluation  :1.0AUC: 0.9018468690229018target_acc: 0.8330112
