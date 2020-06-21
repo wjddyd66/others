@@ -12,11 +12,11 @@ GitHub: https://github.com/wjddyd66/others/tree/master/DANN_TF
 - data_initialization.py: Data -> One-Hot-Encoding
 - utils.py: model hyperparameter initialization, **Gradient Reversal Layer**
 - Model
- - Baseline: model_baseline.py
- - DANN_TF: model_DANN.py
+  - Baseline: model_baseline.py
+  - DANN_TF: model_DANN.py
 - Train
- - Baseline: train_baseline.py
- - DANN_TF: train_DANN.py
+  - Baseline: train_baseline.py
+  - DANN_TF: train_DANN.py
 - Report: Report.ipynb
 
 <span style="color:red;">전처리 이후의 Data(One-Hoe-Encoding)가 커서 현재 올리지 못하는 상황입니다.</span>
