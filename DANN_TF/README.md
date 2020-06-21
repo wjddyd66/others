@@ -4,9 +4,9 @@ GitHub: https://github.com/wjddyd66/others/tree/master/DANN_TF
 해당 Project Directory는 다음과 같이 구성되어 있습니다.
 - checkpoints: Trainning Model 저장하는 Direcotry
 - data
- - Cell Type: GM12878, H1-hESC, HeLa-S3, HepG2, K562
- - TF: CTCF, GABP, JunD, REST, USF2
- - Positive: .fasta, Negative: _back.fasta
+  - Cell Type: GM12878, H1-hESC, HeLa-S3, HepG2, K562
+  - TF: CTCF, GABP, JunD, REST, USF2
+  - Positive: .fasta, Negative: _back.fasta
 - result: Result를 저장하는 Directory
 - data_helper.py: Data Preprocessing(One-Hoe-Encoding, batch iter, shuffle)
 - data_initialization.py: Data -> One-Hot-Encoding
