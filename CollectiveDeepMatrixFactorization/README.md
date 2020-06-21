@@ -8,9 +8,9 @@ GitHub: https://github.com/wjddyd66/others/tree/master/CollectiveDeepMatrixFacto
 - MRI_DATA: MRI_Data_Preprocessing 결과 Data
 - Merge_DATA: Mri preprocessing output(MRI_DATA)와 SNP Preprocessing output(SNP_DATA)를 Merge하여 실제 Model에 넣기위한 Merge 및 Preprocessing
 - data
- - NL_AD_Data: NL_AD의 Model에 들어가는 Data및 결과
- - NL_MCI_Data: NL_MCI의 Model에 들어가는 Data및 결과
- - NL_MCI_AD_Data: NL_MCI_AD의 Model에 들어가는 Data 및 결과
+  - NL_AD_Data: NL_AD의 Model에 들어가는 Data및 결과
+  - NL_MCI_Data: NL_MCI의 Model에 들어가는 Data및 결과
+  - NL_MCI_AD_Data: NL_MCI_AD의 Model에 들어가는 Data 및 결과
 - Algorithm.ipynb: 해당 Model을 만들때 참고한 Algorithm
 - Project_Model.ipynb: Model Trainning
 
