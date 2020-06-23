@@ -13,6 +13,7 @@ GitHub: https://github.com/wjddyd66/others/tree/master/CollectiveDeepMatrixFacto
   - NL_MCI_AD_Data: NL_MCI_AD의 Model에 들어가는 Data 및 결과
 - Algorithm.ipynb: 해당 Model을 만들때 참고한 Algorithm
 - Project_Model.ipynb: Model Trainning
+- load_parameter_test.py: Inference => 현재 Model의 경우에는 일반적인 Input -> Layer -> Output구조 아닌, Input으로부터 Weight를 구성학 이러한 Weight(Matrix)를 곱해가면서 Model으 구축하게 됩니다. 따라서, Trainning되 Weight들을 저장하였고, 이것을 불러와서 실제로 돌아가나, Test해보 수 있는 파일입니다.
 
 <span style="color:red;">전처리 이전의 Data의 경우 Data가 매우 커서 현재 올리지 못하는 상황입니다.</span>
 - MRI: 150GB
